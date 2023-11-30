@@ -7,5 +7,4 @@ setup(name='my_pkg',
       url='https://github.com/jarett-smith/bonus_12',
       packages=['my_pkg'],
       license='MIT',
-      requires='requirements.txt'
       )
